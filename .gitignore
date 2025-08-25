@@ -1,0 +1,13 @@
+# Ignorar a pasta de dependências do Composer
+vendor/
+
+# Arquivos de configuração de ambiente (NUNCA suba senhas ou chaves de API!)
+.env
+
+# Arquivos gerados por Sistemas Operacionais
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados por Editores de Código/IDEs
+.vscode/
+.idea/
